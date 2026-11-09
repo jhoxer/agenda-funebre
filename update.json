@@ -1,0 +1,6 @@
+{
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "AgendaFunebre_v1.9.apk",
+  "releaseNotes": "Actualización v1.9: Sistema de actualizaciones automáticas desde Ajustes, verificación remota de versión, descarga e instalación directa de APK, splash screen de 4 segundos, nombre de usuario editable, formulario optimizado y reporte diario 'Factura'."
+}
